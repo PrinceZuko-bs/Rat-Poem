@@ -1,4 +1,4 @@
-Rat and Lisp Poem
+Rat and Lisp and Haskell Poem
 
 rats r cute
 even if they smell
