@@ -7,3 +7,5 @@ and they like cheerios
 but they like peas the most
 lisp is white
 and lisp is nice
+haskell is russian blue
+and likes almonds the most
